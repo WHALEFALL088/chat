@@ -5,29 +5,21 @@
 # 公众号appSecret
 "app_secret": "5e1b1f1f83e31715f62b9eac64a7933c",
 # 模板消息id
-"template_id": "HHdaN0ZTkfnO9SheopZRWYRHhvsdAjjMdvU2mn3r8vk",
+"template_id": "6S4ZALwfAzP747eu4qnjZTW6m8eavcKCwycLC_Yx37I",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["oo-276VdWP8m_oWjdY79qtGX50Wc"],
  
 # 信息配置
 # 和风天气apikey
-"weather_key": "94979b16b9e441c58c33273c0340efd9",
+"weather_key": "##########",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
 "region": "长沙市",
-# 最高气温
-"The higest weather":"",
-# 最低气温
-"The  lowest weather":"",
-# 日出时间
-"The sun Risetiem":"",
-# 空气质量
-"The air quaitilse":"",
-
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
-"birthday1": {"name": "乖乖", "birthday": "2001-01-01"},
-# 在一起的日子，格式同上，暂不不支持农历
-"love_date": "2022-09-06",
-
+"birthday1": {"张三": "##", "birthday": "2001-01-01"},
+# 生日2
+"birthday2": {"李四": "##", "birthday": "2001-01-01"},
+# 在三一坐牢的日子，格式同上，暂不不支持农历
+"love_date": "2020-10-13",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
 "note_ch": "",
 # 金句英文
