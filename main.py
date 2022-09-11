@@ -59,12 +59,12 @@ def get_weather(region):
     # 风向
     wind_dir = response["now"]["windDir"]
     # 最高气温
-    temp = weatherinfo["code"]
+    temp = weatherinfo["temp"]
     # 最低气温
-    tempn = weatherinfo["code"]
+    tempn = weatherinfo["tempn"]
     
     
-    return weather, temp, code,wind_dir
+    return weather, temp, tempn,wind_dir
  
  
 def get_birthday(birthday, year, today):
