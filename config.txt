@@ -7,13 +7,13 @@
 # 模板消息id
 "template_id": "Ntf36ZoA1uN-_fVtzg2xhAUJyT6zALvNABXzRgH7IyU",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["oo-276UQEZ4wJeYtcJlODDRzHPQ0","oo-276VdWP8m_oWjdY79qtGX50Wc"],
+"user": ["oo-276VdWP8m_oWjdY79qtGX50Wc"],
  
 # 信息配置
 # 和风天气apikey
 "weather_key":"94979b16b9e441c58c33273c0340efd9",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
-"region": "永定区",
+"region": "新邵县",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "你", "birthday": "r2000-12-06"},
 # 生日2
